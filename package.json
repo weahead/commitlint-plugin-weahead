@@ -11,5 +11,11 @@
   "license": "X11",
   "peerDependencies": {
     "@commitlint/lint": ">=7.6.0"
+  },
+  "devDependencies": {
+    "@weahead/tooling": "0.1.0"
+  },
+  "dependencies": {
+    "@commitlint/message": "8.2.0"
   }
 }
