@@ -1,0 +1,15 @@
+{
+  "name": "@weahead/commitlint-plugin-weahead",
+  "version": "0.1.0",
+  "description": "We aheads custom commitlint rules.",
+  "main": "index.js",
+  "keywords": [
+    "commitlint",
+    "commitlintplugin"
+  ],
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "peerDependencies": {
+    "@commitlint/lint": ">=7.6.0"
+  }
+}
