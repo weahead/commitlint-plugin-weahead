@@ -1,6 +1,6 @@
 const message = require('@commitlint/message').default;
 
-const { containsHTML } = require('../utils');
+const { containsHTML } = require('./utils');
 
 module.exports = function(parsed, when) {
   const { body } = parsed;
