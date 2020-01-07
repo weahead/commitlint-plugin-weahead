@@ -25,5 +25,13 @@
   },
   "dependencies": {
     "@commitlint/message": "8.2.0"
-  }
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/commitlint-plugin-weahead.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weahead/commitlint-plugin-weahead/issues"
+  },
+  "homepage": "https://github.com/weahead/commitlint-plugin-weahead#readme"
 }
