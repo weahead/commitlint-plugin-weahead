@@ -1,0 +1,37 @@
+{
+  "name": "@weahead/commitlint-plugin-weahead",
+  "version": "0.1.0",
+  "description": "We aheads custom commitlint rules.",
+  "main": "index.js",
+  "keywords": [
+    "commitlint",
+    "commitlintplugin"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "rules/*"
+  ],
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "peerDependencies": {
+    "@commitlint/lint": ">=7.6.0"
+  },
+  "devDependencies": {
+    "@weahead/tooling": "0.1.0",
+    "jest": "24.9.0"
+  },
+  "dependencies": {
+    "@commitlint/message": "8.2.0"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/commitlint-plugin-weahead.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weahead/commitlint-plugin-weahead/issues"
+  },
+  "homepage": "https://github.com/weahead/commitlint-plugin-weahead#readme"
+}
